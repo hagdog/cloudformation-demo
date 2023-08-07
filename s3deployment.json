@@ -10,7 +10,7 @@
             "Value": {
                 "Ref": "S3DemoBucket"
             },
-            "Description": "A basic S3 bucket."
+            "Description": "A basic S3 bucket for testing. Update 1."
         }
     }
 }
