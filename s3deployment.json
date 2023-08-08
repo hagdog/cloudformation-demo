@@ -10,7 +10,7 @@
             "Value": {
                 "Ref": "S3Bucket"
             },
-            "Description": "A basic S3 bucket for testing. Update 3."
+            "Description": "A cloud formation sandbox project."
         }
     }
 }
